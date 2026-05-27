@@ -72,3 +72,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Portfolio Video:-'https://drive.google.com/drive/folders/17Xd15Kc8fcQ5nJ_H7BBrw1-Yw6YRfIN4?usp=sharing'
+
+<img width="1910" height="817" alt="Screenshot 2026-05-27 104248" src="https://github.com/user-attachments/assets/08c12a90-4794-4d47-ba8b-7ea3bec15a5f" />
+<img width="1911" height="845" alt="Screenshot 2026-05-27 104354" src="https://github.com/user-attachments/assets/7cda2f8c-a408-4aed-b970-3b9a36a2368e" />
+<img width="1892" height="827" alt="Screenshot 2026-05-27 104418" src="https://github.com/user-attachments/assets/64b856eb-89de-4553-b7e2-228dcf0cf45d" />
+<img width="1870" height="558" alt="Screenshot 2026-05-27 104439" src="https://github.com/user-attachments/assets/508c626b-ab35-4502-90d6-87ab9de680f7" />
+<img width="1868" height="940" alt="Screenshot 2026-05-27 104514" src="https://github.com/user-attachments/assets/f9dd4328-9d11-4b98-90fb-1a577071826a" />
+<img width="1864" height="726" alt="Screenshot 2026-05-27 104529" src="https://github.com/user-attachments/assets/78627e2c-b03b-4f17-92ad-77332feac196" />
+<img width="1831" height="943" alt="Screenshot 2026-05-27 104542" src="https://github.com/user-attachments/assets/2377b1de-511c-4c48-bff6-f80e1bd6c9c6" />
+
+
+
+
+
+
+
